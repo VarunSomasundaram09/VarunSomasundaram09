@@ -52,6 +52,8 @@ Records are kept in memory with `ArrayList` and persisted with `FileWriter` and 
 
 `Java` `OOP` `File Handling` `Git`
 
+[View on GitHub](https://github.com/VarunSomasundaram09/Student-Management-System)
+
 ### 🎙️ Digital Audio Processing Using ESP32
 A real-time audio pipeline: ADC sampling of analog input, digital filtering for noise reduction, and processed output.
 
