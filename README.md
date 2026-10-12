@@ -38,6 +38,14 @@
 
 ## 🚀 Projects
 
+### 🏋️ IronPulse: Gym Membership Management System
+A console-based Java application that digitizes gym member records, memberships and payments.
+Built on a relational MySQL schema (members → memberships → payments) with JDBC and `PreparedStatement`, the DAO pattern, automatic expiry calculation, fair renewals, expiry alerts and a dashboard.
+
+`Java` `JDBC` `MySQL` `OOP` `Git`
+
+[View on GitHub](https://github.com/VarunSomasundaram09/IronPulse)
+
 ### 📚 Student Record Manager
 A console-based Java application with full CRUD operations, built on OOP principles.
 Records are kept in memory with `ArrayList` and persisted with `FileWriter` and `BufferedReader`, with exception handling for invalid input.
